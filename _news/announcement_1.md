@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2023-07-19 15:59:00-0400
 inline: true
-related_posts: false
+related_posts: false #Title: The representation of speech variability and variation in deep neural networks
+
 ---
 
-A simple inline announcement.
+PhD thesis submitted  :sparkles: :partying_face:  :confetti_ball:

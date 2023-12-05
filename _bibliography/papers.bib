@@ -1,6 +1,124 @@
 ---
 ---
 
+@inproceedings{abdullah23_interspeech,
+  abbr={Interspeech},
+  author={Badr M. Abdullah and Mohammed Maqsood Shaik and Bernd Möbius and Dietrich Klakow},
+  title={{An Information-Theoretic Analysis of Self-supervised Discrete Representations of Speech}},
+  year=2023,
+  booktitle={Proceedings of INTERSPEECH},
+  pages={2883--2887},
+  doi={10.21437/Interspeech.2023-2131},
+  html="https://www.isca-speech.org/archive/interspeech_2023/abdullah23_interspeech.html",
+  pdf="https://arxiv.org/pdf/2306.02405.pdf",
+  abstract="Self-supervised representation learning for speech often involves a quantization step that transforms the acoustic input into discrete units. However, it remains unclear how to characterize the relationship between these discrete units and abstract phonetic categories such as phonemes. In this paper, we develop an information-theoretic framework whereby we represent each phonetic category as a distribution over discrete units. We then apply our framework to two different self-supervised models (namely, wav2vec 2.0 and XLSR) and use American English speech as a case study. Our study demonstrates that the entropy of phonetic distributions reflects the variability of the underlying speech sounds, with phonetically similar sounds exhibiting similar distributions. While our study confirms the lack of direct one-to-one correspondence, we find an intriguing indirect relationship between phonetic categories and discrete units.",
+  selected={true}
+}
+
+
+
+@inproceedings{steuer-etal-2023-information,
+    title = "Information-Theoretic Characterization of Vowel Harmony: A Cross-Linguistic Study on Word Lists",
+    author = "Steuer, Julius  and
+    Abdullah, Badr M.  and
+      List, Johann-Mattis  and
+      Klakow, Dietrich",
+      abbr={SIGTYP},
+    editor = "Beinborn, Lisa  and
+      Goswami, Koustava  and
+      Murado{\u{g}}lu, Saliha  and
+      Sorokin, Alexey  and
+      Kumar, Ritesh  and
+      Shcherbakov, Andreas  and
+      Ponti, Edoardo M.  and
+      Cotterell, Ryan  and
+      Vylomova, Ekaterina",
+    booktitle = "Proceedings of the 5th Workshop on Research in Computational Linguistic Typology and Multilingual NLP",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.sigtyp-1.10",
+    pdf="https://aclanthology.org/2023.sigtyp-1.10.pdf",
+    html = "https://aclanthology.org/2023.sigtyp-1.10",
+    doi = "10.18653/v1/2023.sigtyp-1.10",
+    pages = "96--109",
+    abstract = "We present a cross-linguistic study of vowel harmony that aims to quantify this phenomenon using data-driven computational modeling. Concretely, we define an information-theoretic measure of harmonicity based on the predictability of vowels in a natural language lexicon, which we estimate using phoneme-level language models (PLMs). Prior quantitative studies have heavily relied on inflected word-forms in the analysis on vowel harmony. On the contrary, we train our models using cross-linguistically comparable lemma forms with little or no inflection, which enables us to cover more under-studied languages. Training data for our PLMs consists of word lists offering a maximum of 1000 entries per language. Despite the fact that the data we employ are substantially smaller than previously used corpora, our experiments demonstrate the neural PLMs capture vowel harmony patterns in a set of languages that exhibit this phenomenon. Our work also demonstrates that word lists are a valuable resource for typological research, and offers new possibilities for future studies on low-resource, under-studied languages.",
+    selected={true}
+}
+
+
+
+
+
+@inproceedings{abdullah-etal-2021-familiar,
+abbr={BlackboxNLP},
+    title = "How Familiar Does That Sound? Cross-Lingual Representational Similarity Analysis of Acoustic Word Embeddings",
+    author = {Abdullah, Badr M. and
+      Zaitova, Iuliia  and
+      Avgustinova, Tania  and
+      M{\"o}bius, Bernd  and
+      Klakow, Dietrich},
+    editor = "Bastings, Jasmijn  and
+      Belinkov, Yonatan  and
+      Dupoux, Emmanuel  and
+      Giulianelli, Mario  and
+      Hupkes, Dieuwke  and
+      Pinter, Yuval  and
+      Sajjad, Hassan",
+    booktitle = "Proceedings of the Fourth BlackboxNLP Workshop on Analyzing and Interpreting Neural Networks for NLP",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.blackboxnlp-1.32",
+    html = "https://aclanthology.org/2021.blackboxnlp-1.32",
+    pdf = "https://aclanthology.org/2021.blackboxnlp-1.32.pdf",
+    doi = "10.18653/v1/2021.blackboxnlp-1.32",
+    pages = "407--419",
+    abstract = "How do neural networks {``}perceive{''} speech sounds from unknown languages? Does the typological similarity between the model{'}s training language (L1) and an unknown language (L2) have an impact on the model representations of L2 speech signals? To answer these questions, we present a novel experimental design based on representational similarity analysis (RSA) to analyze acoustic word embeddings (AWEs){---}vector representations of variable-duration spoken-word segments. First, we train monolingual AWE models on seven Indo-European languages with various degrees of typological similarity. We then employ RSA to quantify the cross-lingual similarity by simulating native and non-native spoken-word processing using AWEs. Our experiments show that typological similarity indeed affects the representational similarity of the models in our study. We further discuss the implications of our work on modeling speech processing and language similarity with neural networks.",
+    selected={true}
+}
+
+
+
+@inproceedings{salesky-etal-2021-sigtyp,
+abbr={SIGTYP},
+    title = "{SIGTYP} 2021 Shared Task: Robust Spoken Language Identification",
+    author = "Salesky, Elizabeth  and
+      Abdullah, Badr M.  and
+      Mielke, Sabrina  and
+      Klyachko, Elena  and
+      Serikov, Oleg  and
+      Ponti, Edoardo Maria  and
+      Kumar, Ritesh  and
+      Cotterell, Ryan  and
+      Vylomova, Ekaterina",
+    editor = {Vylomova, Ekaterina  and
+      Salesky, Elizabeth  and
+      Mielke, Sabrina  and
+      Lapesa, Gabriella  and
+      Kumar, Ritesh  and
+      Hammarstr{\"o}m, Harald  and
+      Vuli{\'c}, Ivan  and
+      Korhonen, Anna  and
+      Reichart, Roi  and
+      Ponti, Edoardo Maria  and
+      Cotterell, Ryan},
+    booktitle = "Proceedings of the Third Workshop on Computational Typology and Multilingual NLP",
+    month = jun,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.sigtyp-1.11",
+    doi = "10.18653/v1/2021.sigtyp-1.11",
+    pages = "122--129",
+    pdf="https://aclanthology.org/2021.sigtyp-1.11.pdf",
+    html = "https://aclanthology.org/2021.sigtyp-1.11",
+    abstract = "While language identification is a fundamental speech and language processing task, for many languages and language families it remains a challenging task. For many low-resource and endangered languages this is in part due to resource availability: where larger datasets exist, they may be single-speaker or have different domains than desired application scenarios, demanding a need for domain and speaker-invariant language identification systems. This year{'}s shared task on robust spoken language identification sought to investigate just this scenario: systems were to be trained on largely single-speaker speech from one domain, but evaluated on data in other domains recorded from speakers under different recording circumstances, mimicking realistic low-resource scenarios. We see that domain and speaker mismatch proves very challenging for current methods which can perform above 95{\%} accuracy in-domain, which domain adaptation can address to some degree, but that these conditions merit further investigation to make spoken language identification accessible in many scenarios.",
+    selected={true}
+}
+
 @string{aps = {American Physical Society,}}
 
 @book{einstein1956investigations,
@@ -44,7 +162,7 @@
   pdf={example_pdf.pdf},
   altmetric={248277},
   dimensions={true},
-  selected={true}
+  selected={false}
 }
 
 @article{einstein1905molekularkinetischen,
