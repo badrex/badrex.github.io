@@ -24,10 +24,10 @@ I am a post-doctoral researcher in the [Language Science and Technology Departme
 
 My research primarily focuses on representation learning for speech and language processing. Concretely, I am interested in (1) analyzing and understanding the **encoding of linguistic structure** in speech and language models, (2) developing linguistically-informed approaches for **cross-lingual transfer learning**, and (3) bridging between **human language processing** and computational language modeling.
 
-In addition, I always enjoy learning more about...
+In addition, I am always excited to chat and learn more about ...
 * Non-native speech processing
 * Multilinguality, linguistic typology, and language variation
-* Information theory and language structure
+* Information-theory and language structure
 * Interpretability of neural networks
 
 &nbsp;
