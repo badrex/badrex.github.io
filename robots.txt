@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://badr.github.io/sitemap.xml
