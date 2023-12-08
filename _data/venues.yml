@@ -4,3 +4,27 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+
+"Interspeech":
+  color: "#1A5D1A"
+
+"SIGTYP":
+  color: "#C51605"
+
+
+
+"BlackboxNLP":
+  color: "#FFB000"
+
+
+
+"VarDial":
+  color: "#3876BF"
+
+"EACL":
+  color: "#192655"
+
+
+"COLING":
+  color: "#9A4444"

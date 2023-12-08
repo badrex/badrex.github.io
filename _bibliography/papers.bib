@@ -261,7 +261,7 @@ abbr={SIGTYP},
 
 
 @inproceedings{macher-etal-2021-read,
-    abbr={EACL-SRW},
+    abbr={EACL},
     title = "Do we read what we hear? Modeling orthographic influences on spoken word recognition",
     author = "Macher, Nicole  and
       Abdullah, Badr M.  and
@@ -285,7 +285,7 @@ abbr={SIGTYP},
 }
 
 @inproceedings{mayn-etal-2021-familiar,
-  abbr={EACL-SRW},
+  abbr={EACL},
     title = "Familiar words but strange voices: Modelling the influence of speech variability on word recognition",
     author = "Mayn, Alexandra  and
       Abdullah, Badr M.  and
@@ -333,7 +333,43 @@ abbr={SIGTYP},
     abstract = "Deep neural networks have been employed for various spoken language recognition tasks, including tasks that are multilingual by definition such as spoken language identification (LID). In this paper, we present a neural model for Slavic language identification in speech signals and analyze its emergent representations to investigate whether they reflect objective measures of language relatedness or non-linguists{'} perception of language similarity. While our analysis shows that the language representation space indeed captures language relatedness to a great extent, we find perceptual confusability to be the best predictor of the language representation similarity.",
 }
 
+@inproceedings{mosbach-etal-2020-closer,
+    abbr={COLING},
+    title = "A Closer Look at Linguistic Knowledge in Masked Language Models: The Case of Relative Clauses in {A}merican {E}nglish",
+    author = "Mosbach, Marius  and
+      Degaetano-Ortlieb, Stefania  and
+      Krielke, Marie-Pauline  and
+      Abdullah, Badr M.  and
+      Klakow, Dietrich",
+    editor = "Scott, Donia  and
+      Bel, Nuria  and
+      Zong, Chengqing",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics (COLING)",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://aclanthology.org/2020.coling-main.67",
+    html = "https://aclanthology.org/2020.coling-main.67",
+    pdf = "https://aclanthology.org/2020.coling-main.67.pdf",
+    doi = "10.18653/v1/2020.coling-main.67",
+    pages = "771--787",
+    abstract = "Transformer-based language models achieve high performance on various tasks, but we still lack understanding of the kind of linguistic knowledge they learn and rely on. We evaluate three models (BERT, RoBERTa, and ALBERT), testing their grammatical and semantic knowledge by sentence-level probing, diagnostic cases, and masked prediction tasks. We focus on relative clauses (in American English) as a complex phenomenon needing contextual information and antecedent identification to be resolved. Based on a naturalistic dataset, probing shows that all three models indeed capture linguistic knowledge about grammaticality, achieving high performance. Evaluation on diagnostic cases and masked prediction tasks considering fine-grained linguistic knowledge, however, shows pronounced model-specific weaknesses especially on semantic knowledge, strongly impacting models{'} performance. Our results highlight the importance of (a)model comparison in evaluation task and (b) building up claims of model performance and the linguistic knowledge they capture beyond purely probing-based evaluations.",
+}
 
+@inproceedings{abdullah20_interspeech,
+abbr={Interspeech},
+  author={Badr M. Abdullah and Tania Avgustinova and Bernd Möbius and Dietrich Klakow},
+  title={{Cross-Domain Adaptation of Spoken Language Identification for Related Languages: The Curious Case of Slavic Languages}},
+  year=2020,
+  month=oct,
+  booktitle={Proceedings of INTERSPEECH},
+  pages={477--481},
+  doi={10.21437/Interspeech.2020-2930},
+  pdf="https://arxiv.org/pdf/2008.00545.pdf",
+  html="https://www.isca-speech.org/archive/interspeech_2020/abdullah20_interspeech.html",
+  abstract = "State-of-the-art spoken language identification (LID) systems, which are based on end-to-end deep neural networks, have shown remarkable success not only in discriminating between distant languages but also between closely-related languages or even different spoken varieties of the same language. However, it is still unclear to what extent neural LID models generalize to speech samples with different acoustic conditions due to domain shift. In this paper, we present a set of experiments to investigate the impact of domain mismatch on the performance of neural LID systems for a subset of six Slavic languages across two domains (read speech and radio broadcast) and examine two low-level signal descriptors (spectral and cepstral features) for this task. Our experiments show that (1) out-of-domain speech samples severely hinder the performance of neural LID models, and (2) while both spectral and cepstral features show comparable performance within-domain, spectral features show more robustness under domain mismatch. Moreover, we apply unsupervised domain adaptation to minimize the discrepancy between the two domains in our study. We achieve relative accuracy improvements that range from 9% to 77% depending on the diversity of acoustic conditions in the source domain. ",
+}
 
 
 string{aps = {American Physical Society,}}
