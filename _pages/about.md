@@ -27,7 +27,7 @@ My research primarily focuses on representation learning for speech and language
 In addition, I am always excited to chat and learn more about ...
 * Non-native speech processing
 * Multilinguality, linguistic typology, and language variation
-* Information-theory and language structure
+* Information theory and language structure
 * Interpretability of neural networks
 
 &nbsp;
