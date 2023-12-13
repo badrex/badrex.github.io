@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-I  gave an invited talk in the [SIGTYP lecture series](https://arxiv.org/pdf/2301.03012.pdf) on
+I  gave an invited talk in the [SIGTYP lecture series](https://sigtyp.github.io/lectures.html) on
 *Capturing Cross-linguistic Similarity with Speech Representation Learning*   :green_circle: :orange_circle:
