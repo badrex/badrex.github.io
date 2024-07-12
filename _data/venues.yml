@@ -29,5 +29,9 @@
 "COLING":
   color: "#9A4444"
 
+"ICASSP":
+  color: "#301934"
+
+
 "Preprint":
-  color: "#000000"
+  color: "#A9A9A9"
