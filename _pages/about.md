@@ -33,13 +33,13 @@ I am a currently working as a researcher in the [Language Science and Technology
 
 I am always excited to chat and learn more about ...
 
-* ***AI Applications for Social Good*** 🍏 Whether we like it or not, AI will impact many aspects of our lives. So how do we steer AI technologies to make a positive social impact? From education to healthcare, what are the possibilities and challenges?
+* **AI Applications for Social Good** 🍏 Whether we like it or not, AI will impact many aspects of our lives. So how do we steer AI technologies to make a positive social impact? From education to healthcare, what are the possibilities and challenges?
 
-* ***Language Technology and Digital Humanities*** 📚 Our ancestors have left us a wealth of knowledge. Can intelligent language technologies help preserve this rich cultural heritage? How can we make humankind's historical wisdom accessible and searchable for all curious minds?
+* **Language Technology and Digital Humanities** 📚 Our ancestors have left us a wealth of knowledge. Can intelligent language technologies help preserve this rich cultural heritage? How can we make humankind's historical wisdom accessible and searchable for all curious minds?
 
-* ***Language Processing in Humans and Machines*** 🧠 Large Language Models (LLMs) excel at processing and generating natural language. Can they teach us something about language processing in the human brain? Can our linguistic theories inspire us to build computational frameworks for neural network interpretability?
+* **Language Processing in Humans and Machines** 🧠 Large Language Models (LLMs) excel at processing and generating natural language. Can they teach us something about language processing in the human brain? Can our linguistic theories inspire us to build computational frameworks for neural network interpretability?
 
-* ***Multilinguality and Language Variation*** 🌐 Not all languages are fairly represented in today’s language technology. What do we need to do to develop more inclusive language technologies? How can we protect the linguistic diversity of humankind?
+* **Multilinguality and Language Variation** 🌐 Not all languages are fairly represented in today’s language technology. What do we need to do to develop more inclusive language technologies? How can we protect the linguistic diversity of humankind?
 
 
 &nbsp;
