@@ -39,7 +39,7 @@ I am always excited to chat and learn more about ...
 
 * **Language Processing in Humans and Machines** 🧠 Large Language Models (LLMs) excel at processing and generating natural language. Can they teach us something about language processing in the human brain? Can our linguistic theories inspire us to build computational frameworks for neural network interpretability?
 
-* **Multilinguality and Language Variation** 🌐 Not all languages are fairly represented in today’s language technology. What do we need to do to develop more inclusive language technologies? How can we protect the linguistic diversity of humankind?
+* **Multilinguality and Language Variation** 🌐 Not all languages are fairly represented in today’s language technology. How can we develop language technologies that are more inclusive and celebrate the linguistic diversity of humankind? 
 
 
 &nbsp;
