@@ -20,9 +20,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page ### Generic Research Interests &nbsp;
 #Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 ---
-Hey there 👋🏼 I'm Badr, an **AI** researcher and **Language Technology** expert. 
+Hey there 👋🏼 I'm Badr, a **Computational Speech Processing** researcher and **Language Technology** expert.
 
-My work focuses on applying machine learning to various problems in **Natural Language Processing** [text modality 📝] and **Speech Processing** [audio modality 💬]. From text to speech, I have always been excited about broadening language technology to many of the under-represented languages of the world. 
+My work focuses on applying machine learning to various problems in **Speech Technology** [audio modality 💬] and **Natural Language Processing** [text modality 📝]. I have always been excited about broadening language technology to many of the under-represented languages of the world.
 
 
 I have a PhD in **Computational Linguistics** from Saarland University. My PhD dissertation introduced novel methods for understanding the representation of speech variability in deep neural networks, providing an interdisciplinary perspective that connects sociolinguistics and machine learning. Before that, I completed my Master in the [**LCT**](https://www.coli.uni-saarland.de/lct-coli/) program with the prestigious **Erasmus Mundus scholarship** funded by the European Commission.
@@ -37,9 +37,9 @@ I am always excited to chat and learn more about ...
 
 * **Language Technology and Digital Humanities** 📚 Our ancestors have left us a wealth of knowledge. Can intelligent language technologies help preserve this rich cultural heritage? How can we make humankind's historical wisdom accessible and searchable for all curious minds?
 
-* **Language Processing in Humans and Machines** 🧠 Large Language Models (LLMs) excel at processing and generating natural language. Can they teach us something about language processing in the human brain? Can our linguistic theories inspire us to build computational frameworks for neural network interpretability?
+<!-- * **Language Processing in Humans and Machines** 🧠 Large Language Models (LLMs) excel at processing and generating natural language. Can they teach us something about language processing in the human brain? Can our linguistic theories inspire us to build computational frameworks for neural network interpretability? -->
 
-* **Multilinguality and Language Variation** 🌐 Not all languages are fairly represented in today’s language technology. How can we develop language technologies that are more inclusive and celebrate the linguistic diversity of humankind? 
+* **Multilinguality and Language Variation** 🌐 Not all languages are fairly represented in today’s language technology. How can we develop language technologies that are more inclusive and celebrate the linguistic diversity of humankind?
 
 
 &nbsp;
