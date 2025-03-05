@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I  gave an invited talk at Tilburg University 🇳🇱, department of cognitive science and AI 🧠 Thanks Gaofei Shen, and Grzegorz Chrupała for the invitation 🧡
+I  gave an invited talk at Tilburg University 🇳🇱, department of cognitive science and AI 🧠 Thanks Gaofei Shen, Afra Alishahi, and Grzegorz Chrupała for the invitation 🧡
